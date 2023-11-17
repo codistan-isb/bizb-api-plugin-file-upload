@@ -1,8 +1,8 @@
 {
-  "name": "@reactioncommerce/api-plugin-example",
+  "name": "@codistan-isb/bizb-api-plugin-file-upload",
   "description": "Boilerplate Example plugin for the Reaction API",
   "label": "Example Plugin",
-  "version": "0.0.0-development",
+  "version": "1.0.0-development",
   "main": "index.js",
   "type": "module",
   "engines": {
